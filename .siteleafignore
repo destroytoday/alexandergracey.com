@@ -1,0 +1,7 @@
+.*
+Gemfile*
+Guardfile
+LICENSE
+README.md
+assets/styles/*.sass
+assets/styles/*.scss
